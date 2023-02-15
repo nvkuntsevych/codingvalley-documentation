@@ -1,0 +1,9 @@
+site_name: CodingValley
+
+theme:
+  name: "material"
+
+nav:
+  - Home: index.md
+  - Quick start: quick_start.md
+  - Endpoints: endpoints.md
